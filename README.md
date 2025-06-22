@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9hCsO6hlK6Ci/giphy.gif" width="100"/>
+ <img src="https://media.giphy.com/media/RbDKaczqWovIugyJ9V/giphy.gif" width="100"/>
   <h1>
     Hi there, I'm Srujan Divakar
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
