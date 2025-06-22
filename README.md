@@ -5,8 +5,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <p>
-    I turn coffee into code, and on good days, that code actually works. Currently on a mission to figure out why my code only breaks when I'm presenting it. I speak fluent Java, JavaScript, and sarcasm.
-  </p>
+Hardworking by habit, sarcastic by nature, and intelligent by design — I write code that works, breaks, and learns with me. I don’t chase perfection; I chase improvement. If it works, I make it better. If it fails, I make it funny. Behind every line of my code is a night of persistence, a mug of coffee, and a brain that refuses to give up until the last bug dies of exhaustion. </p>
   
   <p>
     <a href="https://www.linkedin.com/in/your-linkedin-profile/">
