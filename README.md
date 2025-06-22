@@ -4,7 +4,9 @@
     Hi there, I'm Srujan Divakar
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <p>I'm a passionate developer from India, with a love for building innovative projects and exploring the endless possibilities of code. I enjoy turning complex problems into simple, beautiful, and intuitive designs. When I'm not coding, you'll find me exploring new tech, or enjoying a cup of coffee.</p>
+  <p>
+    I turn coffee into code, and on good days, that code actually works. Currently on a mission to figure out why my code only breaks when I'm presenting it. I speak fluent Java, JavaScript, and sarcasm.
+  </p>
   
   <p>
     <a href="https://www.linkedin.com/in/your-linkedin-profile/">
@@ -40,17 +42,3 @@ Here are a few projects I've worked on:
 -   **Weather\_app**: A clean and simple weather application to get real-time weather data.
 -   **online\_college\_canteen**: An online platform for a college canteen.
 -   **heart-animation**: A simple but elegant heart animation created with CSS.
-
----
-
-### 📊 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srujandivakar&show_icons=true&theme=radical&count_private=true" alt="Srujan's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srujandivakar&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=srujandivakar.srujandivakar" alt="visitor badge"/>
-</div>
