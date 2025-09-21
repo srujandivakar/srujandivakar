@@ -30,14 +30,3 @@ Hardworking by habit, sarcastic by nature, and intelligent by design — I write
   </p>
 </div>
 
----
-
-### 🚀 My Projects
-
-Here are a few projects I've worked on:
-
--   **Ink-Sync__Collaborative-Whiteboard**: A real-time collaborative whiteboard application built with Java.
--   **job\_portal**: A full-featured job portal connecting recruiters and candidates.
--   **Weather\_app**: A clean and simple weather application to get real-time weather data.
--   **online\_college\_canteen**: An online platform for a college canteen.
--   **heart-animation**: A simple but elegant heart animation created with CSS.
